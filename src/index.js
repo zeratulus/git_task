@@ -9,3 +9,5 @@ console.log(bc.div(1, 2));
 console.log(bc.mult(1, 2));
 
 console.log(bc.pow(1, 2));
+
+console.log(bc.max(2, 3));
